@@ -6,4 +6,4 @@ Outside of work I'm into making Linux look nice (see my dotfiles) and learning t
 
 ## Get in touch
 - Twitter: https://twitter.com/dustinhlyons
-- Email: dlyons14@gmail.com
+- Email: hello@dustinlyons.co
