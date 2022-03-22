@@ -4,4 +4,4 @@ Previously I wrote Scala and helped build analytics and client infrastructure wi
 
 ## Get in touch
 - Twitter: https://twitter.com/dustinhlyons
-- Email: hello@dustinlyons.co
+- Email: dustin@dlyons.dev
