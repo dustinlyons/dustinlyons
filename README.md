@@ -1,7 +1,7 @@
 # Hi. 👋 I'm Dustin. 
 
-Previously I wrote lots of Scala to build data and analytics systems @ <a href="https://www.youtube.com/watch?v=W7YQDnweQIc">Credit Karma</a>. For fun, I hack on Nix, Emacs, and my home lab.
+In a previous life I built and managed data engineering @ <a href="https://www.youtube.com/watch?v=W7YQDnweQIc">Credit Karma</a>. For fun, I hack on Nix, Emacs, and my home lab.
 
-## Get in touch
+## I can help you build data platforms. Get in touch!
 - Twitter: https://twitter.com/dustinhlyons
 - Email: dustin@dlyons.dev
