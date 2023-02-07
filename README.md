@@ -9,7 +9,7 @@ Currently, I work as a hands-on consultant focused on data engineering and analy
 * a data lake with data quality monitoring
 * robust front end web/native tracking
 
-After leaving Credit Karma, I've worked with companies like Haven (YC 19) and the University of Kentucky.
+After leaving Credit Karma, my clients include organizations like Haven (YC 19), the University of Kentucky, and ScholarRx.
 
 ## Get in touch
 - Twitter: https://twitter.com/dustinhlyons
