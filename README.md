@@ -4,7 +4,7 @@ In a previous life I helped build early-ish versions of <a href="https://www.you
 
 I'm available to work on new projects. Here's what I've shipped recently:
 
-* Teraform and React to deliver robust front end analytics, streaming data pipelines, and a serverless data warehouse (<a href="https://www.ycombinator.com/companies/haven">Haven YC 20</a>)
+* Terraform and React to deliver robust front end analytics, streaming data pipelines, and a serverless data warehouse (<a href="https://www.ycombinator.com/companies/haven">Haven YC 20</a>)
 * Amazon Managed Apache Airflow Terraform configuration, and Python Airflow code (a DAG) that delivered PII filtering, a data transformation platform, and data quality monitoring (<a href="https://www.ycombinator.com/companies/haven">Haven YC 20</a>)
 * Developed new SDLC process + trained the team (<a href="https://scholarrx.com/">ScholarRx</a>)
 
