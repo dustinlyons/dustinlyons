@@ -1,6 +1,6 @@
 # Hi. 👋 I'm Dustin. 
 
-In a previous life I helped build early-ish versions of <a href="https://www.youtube.com/watch?v=W7YQDnweQIc">Credit Karma</a> and managed a few engineering teams, including data/ML, web, and native platforms. 
+In a previous life I helped build early-ish versions of <a href="https://www.lightbend.com/blog/how-credit-karma-makes-real-time-decisions-for-60-million-users-akka-streams-kafka">Credit Karma</a> and managed a few engineering teams, including data/ML, web, and native platforms. 
 
 I'm available to work on new projects. Here's what I've shipped recently:
 
