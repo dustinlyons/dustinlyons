@@ -1,13 +1,15 @@
 # Hi. 👋 I'm Dustin. 
 
-In a previous life I helped build early-ish versions of <a href="https://www.lightbend.com/blog/how-credit-karma-makes-real-time-decisions-for-60-million-users-akka-streams-kafka">Credit Karma</a> and managed a few engineering teams, including data/ML, web, and native platforms. 
+Are you or your team considering a new data initiative, but the team lacks experience in data engineering? Maybe I can help. I have over 10 years experience in data-specific software engineering roles, with 5 years of leadership experience driving analytics engineering strategy at a tech 🦄.
 
-I'm available to work on new projects. Here's what I've shipped recently:
+In a previous life I helped build early-ish versions of <a href="https://www.lightbend.com/blog/how-credit-karma-makes-real-time-decisions-for-60-million-users-akka-streams-kafka">Credit Karma</a> and managed teams across data/ML, web, and native platforms. This included areas like:
+* Building ad impression systems
+* Managing data quality programs
+* Migration to cloud infrastructure, managing data pipeline SLAs
+* In-house A/B experimentation systems
 
-* Terraform and React to deliver robust front end analytics, streaming data pipelines, and a serverless data warehouse (<a href="https://www.ycombinator.com/companies/haven">Haven YC 20</a>)
-* Amazon Managed Apache Airflow Terraform configuration, and Python Airflow code (a DAG) that delivered PII filtering, a data transformation platform, and data quality monitoring (<a href="https://www.ycombinator.com/companies/haven">Haven YC 20</a>)
-* Developed new SDLC process + trained the team (<a href="https://scholarrx.com/">ScholarRx</a>)
+Today, I'm hands on and can build across your stack- infrastructure as code, pipelines, API services, or front end with React/Vue. Past clients include (<a href="https://www.ycombinator.com/companies/haven">Haven YC 20</a>), (<a href="https://scholarrx.com/">ScholarRx</a>), and the University of Kentucky. Get in touch if you think I can help.
 
-## Get in touch
-- Twitter: https://twitter.com/dustinhlyons
+## Let's talk
+- Twiter: https://twitter.com/dustinhlyons
 - Email: dustin@dlyons.dev
