@@ -8,7 +8,7 @@ In a previous life I helped build early-ish versions of <a href="https://www.lig
 * Migration to cloud infrastructure, managing data pipeline SLAs
 * In-house A/B experimentation systems
 
-Today, I'm hands on and can build across your stack- infrastructure as code, pipelines, API services, or front end with React/Vue. Past clients include (<a href="https://www.ycombinator.com/companies/haven">Haven YC 20</a>), (<a href="https://scholarrx.com/">ScholarRx</a>), and the University of Kentucky. Get in touch if you think I can help.
+Today, I'm hands on and can build across your stack- infrastructure as code, pipelines, API services, or front end with React/Vue. Past clients include <a href="https://www.ycombinator.com/companies/haven">Haven YC 20</a>, <a href="https://scholarrx.com/">ScholarRx</a>, and the University of Kentucky. Get in touch if you think I can help.
 
 ## Let's talk
 - Twiter: https://twitter.com/dustinhlyons
