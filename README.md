@@ -1,7 +1,7 @@
 # Hi. 👋 I'm Dustin. 
 Are you or your team considering a new data initiative, but the team lacks experience in data engineering? Let me help! I have over 10 years experience in data-specific software engineering roles, with 5 years of leadership experience driving analytics engineering strategy at a tech 🦄.
 
-In a previous life I helped build early-ish versions of <a href="https://www.lightbend.com/blog/how-credit-karma-makes-real-time-decisions-for-60-million-users-akka-streams-kafka">Credit Karma</a> and managed teams across data/ML, web, and native platforms. This included areas like:
+In a previous life I helped build early-ish versions of <a href="https://www.lightbend.com/blog/how-credit-karma-makes-real-time-decisions-for-60-million-users-akka-streams-kafka">Credit Karma</a> and managed teams across data/ML, web, and native platforms. Projects I'm most proud of:
 * Building ad impression systems
 * Managing data quality programs
 * Migration to cloud infrastructure, building data pipelines and managing their operational SLAs
