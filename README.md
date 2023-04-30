@@ -4,7 +4,7 @@ Are you or your team considering a new data initiative, but the team lacks exper
 In a previous life I helped build early-ish versions of <a href="https://www.lightbend.com/blog/how-credit-karma-makes-real-time-decisions-for-60-million-users-akka-streams-kafka">Credit Karma</a> and managed teams across data/ML, web, and native platforms. Projects I'm most proud of:
 * Building a novel ad impression system
 * Bootstrapping the technology to power broad data quality requirements
-* Migration to cloud infrastructure, building data pipelines and effectively managing quality/latency SLAs for years
+* Migration to cloud infrastructure, building data pipelines and managing quality/latency SLAs
 * Our in-house A/B experimentation system "Darwin"
 
 Today, I'm hands on and can build across your stack- infrastructure as code, data pipelines, API services, or front end with React/Vue. Past clients include <a href="https://www.ycombinator.com/companies/haven">Haven YC 20</a>, <a href="https://scholarrx.com/">ScholarRx</a>, and the University of Kentucky.
