@@ -8,6 +8,7 @@ In the past, I've worked on:
 I'm very passionate about:
 - State-of-the-art data and analytics engineering
 - Nix and infrastructure-as-code
+- Typescript
 - Cloud computing
 
 Let's work together:
