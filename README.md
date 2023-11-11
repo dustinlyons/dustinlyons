@@ -6,7 +6,7 @@ In the past, I've worked on:
 - A little bit of everything as 3rd engineer at [Zenput](https://www.zenput.com/)
 
 I'm very passionate about:
-- State-of-the-art data and analytics engineering
+- State-of-the-art data and analytics engineering (and the scrappy startup stuff)
 - Nix and infrastructure-as-code
 - Typescript
 - Cloud computing
