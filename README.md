@@ -5,11 +5,11 @@ In the past, I've worked on:
 - Data platforms at [Haven](https://www.ycombinator.com/companies/haven)
 - A little bit of everything as 3rd engineer at [Zenput](https://www.zenput.com/)
 
-I'm very passionate about:
+I like talking about:
 - State-of-the-art data and analytics engineering (and the scrappy startup stuff)
 - Nix and infrastructure-as-code
 - Typescript
-- Cloud computing
+- Doing cool shit in the Cloud
 
 Let's work together:
 - [Good River Labs](https://www.river.dev)
