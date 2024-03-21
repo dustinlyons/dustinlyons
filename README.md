@@ -10,6 +10,3 @@ I like talking about:
 - Nix and infrastructure-as-code
 - Typescript
 - Doing cool shit in the Cloud
-
-Let's work together:
-- [Good River Labs](https://www.river.dev)
