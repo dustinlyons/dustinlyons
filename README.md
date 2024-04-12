@@ -6,7 +6,5 @@ In the past, I've worked on:
 - A little bit of everything as 3rd engineer at [Zenput](https://www.zenput.com/)
 
 I like talking about:
-- State-of-the-art data and analytics engineering (and the scrappy startup stuff)
 - Nix and infrastructure-as-code
-- Typescript
-- Doing cool shit in the Cloud
+- Startups
